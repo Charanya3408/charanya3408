@@ -1,4 +1,8 @@
 ## Hi there 👋
+I'm a student trying to learn coding and making projects ,on my own and this is where i will be storing all my certifiates and achievements.
+
+
+
 
 <!--
 **Charanya3408/charanya3408** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
