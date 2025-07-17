@@ -1,11 +1,4 @@
-## Hi there 👋
-I'm a student trying to learn coding and making projects ,on my own and this is where i will be storing all my certifiates and achievements.
-## 🏆 Achievements & Certificates
 
-- [Certificate Name 1](link-to-certificate)
-- [Certificate Name 2](link-to-certificate)
-- [Achievement 1: Brief Description]
-- [Achievement 2: Brief Description]
 
 
 
